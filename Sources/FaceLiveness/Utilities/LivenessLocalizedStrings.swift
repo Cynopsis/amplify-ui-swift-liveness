@@ -7,7 +7,7 @@
 
 import SwiftUI
 
-enum LocalizedStrings {
+public enum LocalizedStrings {
     /// en = "Liveness Check"
     static let get_ready_page_title = "amplify_ui_liveness_get_ready_page_title".localized()
     
